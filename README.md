@@ -7,7 +7,9 @@ I have shown in the below mentioned youtube video that how one can easily make a
 
  Add this Dependency in build.gradle (Module :app) : 
 dependecies{
+
     implementation 'com.airbnb.android:lottie:3.4.0'
+
 }
 
 My Instagram account-> https://www.instagram.com/japnoor.here/
