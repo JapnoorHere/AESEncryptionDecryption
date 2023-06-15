@@ -26,6 +26,7 @@ class MainActivity : AppCompatActivity() {
 
         btnencrypt.setOnClickListener{
             tvencrypt.setText(encrypt(et1.text.toString()))
+            et2.setText(encrypt(et1.text.toString()))
         }
 
 
